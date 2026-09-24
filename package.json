@@ -1,0 +1,12 @@
+{
+  "name": "yumikinoshita",
+  "private": true,
+  "description": "yumi.kanayell.life — 木下由美の個人サイト（Cloudflare Workers・静的サイト）",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.137.0"
+  }
+}
